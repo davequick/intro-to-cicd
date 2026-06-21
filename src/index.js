@@ -1,3 +1,4 @@
+// adding one line comment
 function sayHi(name) {
   return `Hello there ${name}`
 }
